@@ -1,7 +1,12 @@
 /* Imports */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,900&family=Roboto+Mono&display=swap');
 
+:root {
+  color-scheme: light;
+}
+
 /* Base */
+
 body {
   font-family: "Roboto Mono", monospace;
   margin: 0;
